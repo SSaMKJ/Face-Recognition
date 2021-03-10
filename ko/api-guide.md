@@ -1,4 +1,4 @@
-# AI Service > Face Recognition > 얼굴인식 API 가이드
+## AI Service > Face Recognition > 얼굴인식 API 가이드
 
 * 얼굴인식 API를 사용하는 데 필요한 API를 설명합니다.
 
